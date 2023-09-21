@@ -1,9 +1,0 @@
- if (isBadExpense==false) {
-            badExpensesElement.textContent = `Bad Expenses: ${description}`;
-        }
-
-.chart-container {
-    text-align: center;
-    display: inline-block;
-
-}
